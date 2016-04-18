@@ -1,0 +1,13 @@
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.RegistrationForm.resources
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.MainForm.resources
+C:\Users\Vladimir\Desktop\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+F:\Почта России\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+F:\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+F:\Почта России\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
